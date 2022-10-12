@@ -1,0 +1,1 @@
+Simple deep learning model. ReLU funcion in hidden layern and Sigmoid funcion in output layer is used. Outputs are compared with metrices Recall, Precision and F1_Score 
